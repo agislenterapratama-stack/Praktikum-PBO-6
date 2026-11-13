@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/34778050/README.2.md)
+
 # Praktikum-PBO-6# Pengelola Data Nilai Siswa — Program Java Procedural
 
 > **Satu file, tiga langkah:** input dari keyboard → tulis ke file teks → baca kembali file itu dan tampilkan di konsol.
