@@ -1,0 +1,12 @@
+=================================
+        LAPORAN NILAI SISWA      
+=================================
+1. Nama: Budi | Nilai: 85.00 | Status: Lulus
+2. Nama: Siti | Nilai: 65.00 | Status: Tidak Lulus
+3. Nama: Andi | Nilai: 90.00 | Status: Lulus
+=================================
+RINGKASAN KELAS
+Rata-rata nilai kelas : 80.00
+Jumlah siswa lulus    : 2 siswa
+Jumlah siswa tidak lulus : 1 siswa
+Total siswa           : 3 siswa
